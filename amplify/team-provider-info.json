@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-flyseam-dev-154010-authRole",
+      "UnauthRoleArn": "arn:aws:iam::081102260305:role/amplify-flyseam-dev-154010-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::081102260305:role/amplify-flyseam-dev-154010-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-flyseam-dev-154010-deployment",
+      "UnauthRoleName": "amplify-flyseam-dev-154010-unauthRole",
+      "StackName": "amplify-flyseam-dev-154010",
+      "StackId": "arn:aws:cloudformation:us-east-1:081102260305:stack/amplify-flyseam-dev-154010/903bab90-b1c7-11eb-9c55-0e5602f42feb",
+      "AmplifyAppId": "d1o1qx93z3mjgk"
+    }
+  }
+}
